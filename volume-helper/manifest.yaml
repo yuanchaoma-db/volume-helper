@@ -1,0 +1,3 @@
+version: 1
+name: "volume-helper"
+description: "A file browser utility for Databricks Volumes. Enables org and domain users that do not have Databricks console access to collaborate view upload and download files."
